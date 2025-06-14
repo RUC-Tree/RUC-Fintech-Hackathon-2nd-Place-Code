@@ -4,7 +4,8 @@ The School of Economics at Renmin University of China held a fintech hackathon (
 - Hackathon Link: https://datahub.ruc.edu.cn/org/RUC/workspace/competition/area
 (Unfortunately, this website can only be accessed using the account of Renmin University.)
 
-<img src="second.jpg" alt="second" width="500">
+<img src="Second.jpg" alt="second" width="500">
+
 ### 2. The Methods I used:
 - Linear Models: `OLS`, `Lasso`, `Ridge`, `Elastic Net`
 - Tree-based Models: `Random Forest`, `XGBoost`, `LightGBM`
