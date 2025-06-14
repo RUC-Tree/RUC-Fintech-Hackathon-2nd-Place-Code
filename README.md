@@ -4,7 +4,7 @@ The School of Economics at Renmin University of China held a fintech hackathon (
 - Hackathon Link: https://datahub.ruc.edu.cn/org/RUC/workspace/competition/area
 (Unfortunately, this website can only be accessed using the account of Renmin University.)
 
-<img src="Second.jpg" alt="second" width="500">
+<img src="images/Second.jpg" alt="second" width="800">
 
 ### 2. The Methods I used:
 - Linear Models: `OLS`, `Lasso`, `Ridge`, `Elastic Net`
@@ -13,10 +13,12 @@ The School of Economics at Renmin University of China held a fintech hackathon (
 ### 3. The Packages I used:
 `scikit-learn`, `xgboost`, `lightgbm`, `openfe`, `autogluon`, `keras`
 ### 4. Innovations:
-- A possible method to solve the data imbalance problem in Machine Learning: **Data Enhancement** (not yet proven by theory)
-- A possible improvement based on the **White Test**：Fit the residuals using more function forms, such as logarithms.
+- A possible method to solve the data imbalance problem in Machine Learning: **Data Enhancement** (not yet proven by theory).
+- A possible improvement based on the **White Test**：Fit the residuals using more function forms, such as logarithms(not yet proven by theory).
 - An improvement of the initial neural network: **Wide ANN** (theoretically proven by Cheng, 2016)
 - Application of `openfe` (for mining deep features) and `autogluon` (for Automated machine learning).
+<img src="images/Wide-ANN.png" alt="second" width="800">
+- Model Stacking.
 ### 5. References:
 > 1. Cheng, Heng-Tze, et al. "Wide & deep learning for recommender systems." Proceedings of the 1st workshop on deep learning for recommender systems. 2016.
 > 2. Erickson, Nick, et al. "Autogluon-tabular: Robust and accurate automl for structured data." arXiv preprint arXiv:2003.06505 (2020).
