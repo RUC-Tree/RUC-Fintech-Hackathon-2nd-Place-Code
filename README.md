@@ -13,3 +13,6 @@ The School of Economics at Renmin University of China held a fintech hackathon (
 - An improvement of the initial neural network: **Wide ANN** (theoretically proven by Cheng, 2016)
 - Application of `openfe` (for mining deep features) and `autogluon` (for Automated machine learning).
 ### 5. References:
+> 1. Cheng, Heng-Tze, et al. "Wide & deep learning for recommender systems." Proceedings of the 1st workshop on deep learning for recommender systems. 2016.
+> 2. Erickson, Nick, et al. "Autogluon-tabular: Robust and accurate automl for structured data." arXiv preprint arXiv:2003.06505 (2020).
+> 3. Zhang, Tianping, et al. "Openfe: Automated feature generation with expert-level performance." International Conference on Machine Learning. PMLR, 2023.
