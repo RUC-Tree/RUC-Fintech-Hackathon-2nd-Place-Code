@@ -6,9 +6,10 @@ The School of Economics at Renmin University of China held a fintech hackathon (
 - Tree-based Models: `Random Forest`, `XGBoost`, `LightGBM`
 - Neural Networks
 ### 3. The Packages I used:
-`scikit-learn`, `xgboost`, 'lightgbm`, `openfe`, `autogluon`, `keras`
+`scikit-learn`, `xgboost`, `lightgbm`, `openfe`, `autogluon`, `keras`
 ### 4. Innovations:
 - A possible method to solve the data imbalance problem in Machine Learning: **Data Enhancement** (not yet proven by theory)
 - A possible improvement based on the **White Test**：Fit the residuals using more function forms, such as logarithms.
+- An improvement of the initial neural network: **Wide ANN** (theoretically proven by Cheng, 2016)
 - Application of `openfe` (for mining deep features) and `autogluon` (for Automated machine learning).
 ### 5. References:
